@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>My first reactive native App.</Text>
+      <Text>Xuerong</Text>
     </View>
   );
 }
